@@ -21,7 +21,7 @@ This app contains 4 multiple-choice quiz questions with instant feedback and a f
 
 -Clean and beginner-friendly UI
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 1. HTML — structure
 
@@ -30,7 +30,6 @@ This app contains 4 multiple-choice quiz questions with instant feedback and a f
 3. JavaScript (Vanilla) — logic & interactivity
 
 📂 Project Structure
-
 ├── index.html
 ├── styles.css
 └── script.js
