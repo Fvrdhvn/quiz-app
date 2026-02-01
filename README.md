@@ -1,11 +1,11 @@
 # Quiz-app
-🧠 Simple Quiz App — JavaScript Mastery
+##🧠 Simple Quiz App — JavaScript Mastery
 
 A simple quiz application built using HTML, CSS, and Vanilla JavaScript to practice core JavaScript concepts such as DOM manipulation, event handling, and basic state management.
 
 This app contains 4 multiple-choice quiz questions with instant feedback and a final score display.
 
-🚀 Features
+##🚀 Features
 
 -Dynamic questions rendered from a JavaScript array
 
@@ -21,7 +21,7 @@ This app contains 4 multiple-choice quiz questions with instant feedback and a f
 
 -Clean and beginner-friendly UI
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 1. HTML — structure
 
@@ -29,12 +29,12 @@ This app contains 4 multiple-choice quiz questions with instant feedback and a f
 
 3. JavaScript (Vanilla) — logic & interactivity
 
-📂 Project Structure
+##📂 Project Structure
 ├── index.html
 ├── styles.css
 └── script.js
 
-🧩 JavaScript Concepts Practiced
+##🧩 JavaScript Concepts Practiced
 
 1. Arrays & Objects
 
@@ -48,7 +48,7 @@ This app contains 4 multiple-choice quiz questions with instant feedback and a f
 
 6. Dynamic UI updates
 
-🎯 Project Purpose
+##🎯 Project Purpose
 
 This project was created to:
 
@@ -60,7 +60,7 @@ This project was created to:
 
 4. Improve confidence with Vanilla JavaScript (no frameworks)
 
-▶️ How to Run
+##▶️ How to Run
 
 1. Clone this repository
 
