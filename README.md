@@ -7,27 +7,27 @@ This app contains 4 multiple-choice quiz questions with instant feedback and a f
 
 🚀 Features
 
-Dynamic questions rendered from a JavaScript array
+-Dynamic questions rendered from a JavaScript array
 
-Multiple-choice answers with correct / incorrect feedback
+-Multiple-choice answers with correct / incorrect feedback
 
-Automatic score calculation
+-Automatic score calculation
 
-Highlighting the correct answer after selection
+-Highlighting the correct answer after selection
 
-Next question navigation
+-Next question navigation
 
-Restart quiz functionality
+-Restart quiz functionality
 
-Clean and beginner-friendly UI
+-Clean and beginner-friendly UI
 
 🛠️ Tech Stack
 
-HTML — structure
+1. HTML — structure
 
-CSS — styling
+2. CSS — styling
 
-JavaScript (Vanilla) — logic & interactivity
+3. JavaScript (Vanilla) — logic & interactivity
 
 📂 Project Structure
 ├── index.html
@@ -36,34 +36,34 @@ JavaScript (Vanilla) — logic & interactivity
 
 🧩 JavaScript Concepts Practiced
 
-Arrays & Objects
+1. Arrays & Objects
 
-DOM Manipulation (getElementById, createElement)
+2. DOM Manipulation (getElementById, createElement)
 
-Event Listeners
+3. Event Listeners
 
-Conditional Logic
+4. Conditional Logic
 
-State Management (question index & score)
+5. State Management (question index & score)
 
-Dynamic UI updates
+6. Dynamic UI updates
 
 🎯 Project Purpose
 
 This project was created to:
 
-Strengthen JavaScript fundamentals
+1. Strengthen JavaScript fundamentals
 
-Practice building interactive web applications
+2. Practice building interactive web applications
 
-Understand how quiz logic works step by step
+3. Understand how quiz logic works step by step
 
-Improve confidence with Vanilla JavaScript (no frameworks)
+4. Improve confidence with Vanilla JavaScript (no frameworks)
 
 ▶️ How to Run
 
-Clone this repository
+1. Clone this repository
 
-Open index.html in your browser
+2. Open quiz.html in your browser
 
-Start answering the quiz 🎉
+3. Start answering the quiz 🎉
